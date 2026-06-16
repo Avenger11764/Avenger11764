@@ -20,32 +20,26 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  
-  <br/>
-  
-  <!-- Backend & Languages -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  
-  <br/>
-  
-  <!-- Tools & Cloud -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</p>
+<table>
+  <tr>
+    <td align="left" valign="middle"><b>💻 Languages</b></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=c,java,js,py,html,css" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>🚀 Frameworks & Libraries</b></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,electron" alt="Frameworks & Libraries" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>🗄️ Databases & Tools</b></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" alt="Databases & Tools" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>⚙️ Development Tools</b></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,windows,npm" alt="Development Tools" /></td>
+  </tr>
+</table>
 
 ---
 
