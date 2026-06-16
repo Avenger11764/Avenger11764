@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer • KCCITM ’27</h3>
 <h4 align="center">Passionate about Web Development, Frontend engineering, and exploring Cloud solutions 🚀</h4>
 <div align="center">
-  <img src="./profile.jpg" alt="Avinash Bajpai" width="200px" height="200px" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;"/>
+  <img src="./avinash_avatar.jpg" alt="Avinash Bajpai" width="200px" height="200px" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;"/>
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Avenger11764&label=Profile%20views&color=0e75b6&style=flat" alt="Avenger11764" />
