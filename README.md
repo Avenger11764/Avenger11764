@@ -12,8 +12,8 @@
 
 - 🔭 I'm currently working on **Full-Stack & Frontend Projects** and **Sleek Windows Utilities**
 - 🌱 I'm currently learning **Advanced Frontend Skills, Modern Frameworks, and Cloud Technologies**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Avenger11764)
-- 💬 Ask me about **Frontend Development, Python, JavaScript, Windows Utility Development**
+- 👨+💻 All of my projects are available on [GitHub](https://github.com/Avenger11764)
+- 💬 Ask me about **Web Development, React, Node.js, JavaScript, Problem Solving**
 - 📫 How to reach me: **[avinashbajpai11764@gmail.com](mailto:avinashbajpai11764@gmail.com)** or via **[LinkedIn](https://www.linkedin.com/in/avinash-bajpai)**
 - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/17ooxe8PHm2ZwQ4oq2AmW0uqOYV7yWWmX/view?usp=drive_link)**
 - ⚡ Fun fact: *One line of Python at a time... and that somehow keeps the compiler happy!*
@@ -46,36 +46,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/avinash-bajpai" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:avinashbajpai11764@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Avenger11764" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-### 🏆 Achievements & Badges
-
-<p align="left">
-  <!-- Holopin Badge Board -->
-  <a href="https://holopin.io/@avenger11764" target="_blank">
-    <img src="https://holopin.me/avenger11764" alt="Avinash's Holopin Board" width="450px" />
-  </a>
-</p>
-
-- 🚀 Active Open Source Contributor & Developer
-- 🦈 **Pull Shark** badge holder on GitHub for merging impactful pull requests
 
 ---
 
@@ -125,3 +95,33 @@
 | **medivault** | Next-gen patient portal & medical registry with Gemini AI & Groq | [GitHub Code](https://github.com/Avenger11764/medivault) |
 | **algoprep** | Full-stack competitive programming companion & interview prep | [GitHub Code](https://github.com/Avenger11764/algoprep) |
 | **duo_learning** | Gamified social learning hub with quizzes & streaks | [GitHub Code](https://github.com/Avenger11764/duo_learning) |
+
+---
+
+### 🏆 Achievements & Badges
+
+<p align="left">
+  <!-- Holopin Badge Board -->
+  <a href="https://holopin.io/@avenger11764" target="_blank">
+    <img src="https://holopin.me/avenger11764" alt="Avinash's Holopin Board" width="450px" />
+  </a>
+</p>
+
+- 🚀 Active Open Source Contributor & Developer
+- 🦈 **Pull Shark** badge holder on GitHub for merging impactful pull requests
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/avinash-bajpai" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:avinashbajpai11764@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Avenger11764" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
