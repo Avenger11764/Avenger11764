@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on **Full-Stack & Frontend Projects** and **Sleek Windows Utilities**
 - 🌱 I'm currently learning **Advanced Frontend Skills, Modern Frameworks, and Cloud Technologies**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Avenger11764)
+- 👨+💻 All of my projects are available on [GitHub](https://github.com/Avenger11764)
 - 💬 Ask me about **Web Development, React, Node.js, JavaScript, Problem Solving**
 - 📫 How to reach me: **[avinashbajpai11764@gmail.com](mailto:avinashbajpai11764@gmail.com)** or via **[LinkedIn](https://www.linkedin.com/in/avinash-bajpai)**
 - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/17ooxe8PHm2ZwQ4oq2AmW0uqOYV7yWWmX/view?usp=drive_link)**
@@ -103,10 +103,10 @@
 
 ### 🏆 Achievements & Badges
 
-<p align="left">
+<p align="center">
   <!-- Holopin Badge Board -->
   <a href="https://holopin.io/@avenger11764" target="_blank">
-    <img src="https://holopin.me/avenger11764" alt="Avinash's Holopin Board" width="450px" />
+    <img src="https://holopin.me/avenger11764" alt="Avinash's Holopin Board" width="100%" />
   </a>
 </p>
 
@@ -127,4 +127,14 @@
   <a href="https://github.com/Avenger11764" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Let's connect and chat! Open to collaborating on interesting and innovative projects.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=footer" alt="Wave Footer" width="100%"/>
 </p>
