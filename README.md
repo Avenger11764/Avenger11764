@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on **Full-Stack & Frontend Projects** and **Sleek Windows Utilities**
 - 🌱 I'm currently learning **Advanced Frontend Skills, Modern Frameworks, and Cloud Technologies**
-- 👨+💻 All of my projects are available on [GitHub](https://github.com/Avenger11764)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Avenger11764)
 - 💬 Ask me about **Web Development, React, Node.js, JavaScript, Problem Solving**
 - 📫 How to reach me: **[avinashbajpai11764@gmail.com](mailto:avinashbajpai11764@gmail.com)** or via **[LinkedIn](https://www.linkedin.com/in/avinash-bajpai)**
 - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/17ooxe8PHm2ZwQ4oq2AmW0uqOYV7yWWmX/view?usp=drive_link)**
@@ -45,6 +45,15 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avenger11764&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avenger11764&theme=radical" alt="GitHub Streak Stats" height="180px" />
 </p>
 
 ---
