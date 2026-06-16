@@ -47,7 +47,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avenger11764&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avenger11764&theme=radical" alt="GitHub Streak Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avenger11764&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avenger11764&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avenger11764&theme=react-dark" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
