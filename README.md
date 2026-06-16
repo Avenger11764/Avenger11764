@@ -22,24 +22,25 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="left" valign="middle"><b>💻 Languages</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=c,java,js,py,html,css" alt="Languages" /></td>
-  </tr>
-  <tr>
-    <td align="left" valign="middle"><b>🚀 Frameworks & Libraries</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,electron" alt="Frameworks & Libraries" /></td>
-  </tr>
-  <tr>
-    <td align="left" valign="middle"><b>🗄️ Databases & Tools</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" alt="Databases & Tools" /></td>
-  </tr>
-  <tr>
-    <td align="left" valign="middle"><b>⚙️ Development Tools</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,windows,npm" alt="Development Tools" /></td>
-  </tr>
-</table>
+💻 **Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,py,html,css" alt="Languages" />
+</p>
+
+🚀 **Frameworks & Libraries**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,electron" alt="Frameworks & Libraries" />
+</p>
+
+🗄️ **Databases & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" alt="Databases & Tools" />
+</p>
+
+⚙️ **Development Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,windows,npm" alt="Development Tools" />
+</p>
 
 ---
 
