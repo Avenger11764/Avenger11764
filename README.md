@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on **Full-Stack & Frontend Projects** and **Sleek Windows Utilities**
 - 🌱 I'm currently learning **Advanced Frontend Skills, Modern Frameworks, and Cloud Technologies**
-- 👨+💻 All of my projects are available on [GitHub](https://github.com/Avenger11764)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://avinash-bajpai-portfolio.vercel.app/)
 - 💬 Ask me about **Web Development, React, Node.js, JavaScript, Problem Solving**
 - 📫 How to reach me: **[avinashbajpai11764@gmail.com](mailto:avinashbajpai11764@gmail.com)** or via **[LinkedIn](https://www.linkedin.com/in/avinash-bajpai)**
 - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/17ooxe8PHm2ZwQ4oq2AmW0uqOYV7yWWmX/view?usp=drive_link)**
