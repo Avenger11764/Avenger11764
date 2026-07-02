@@ -47,8 +47,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avenger11764&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avenger11764&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Avenger11764&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Avenger11764&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
