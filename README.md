@@ -101,15 +101,15 @@
 
 ### 💻 More Projects
 
-| Project Name | Details | GitHub Link |
+| Project Name | Details | GitHub & Live Link |
 | :--- | :--- | :--- |
-| **Dynamic_island** | Sleek, butter-smooth Windows Dynamic Island utility | [GitHub Code](https://github.com/Avenger11764/Dynamic_island) |
-| **medivault** | Next-gen patient portal & medical registry with Gemini AI & Groq | [GitHub Code](https://github.com/Avenger11764/medivault) |
-| **algoprep** | Full-stack competitive programming companion & interview prep | [GitHub Code](https://github.com/Avenger11764/algoprep) |
-| **duo_learning** | Gamified social learning hub with quizzes & streaks | [GitHub Code](https://github.com/Avenger11764/duo_learning) |
-| **DOCU** | Full-stack RAG AI document intelligence platform with Gemini | [GitHub Code](https://github.com/Avenger11764/DOCU) |
-| **Chronos (Task-tracker)** | MERN task/workflow manager with database fallback engine | [GitHub Code](https://github.com/Avenger11764/Task-tracker) |
-| **JobLink** | React + TS job portal with 6-step application wizard & draft auto-save | [GitHub Code](https://github.com/Avenger11764/Joblink) |
+| **Dynamic_island** | Sleek, butter-smooth Windows Dynamic Island utility | [GitHub Code](https://github.com/Avenger11764/Dynamic_island) \| Live Demo Not Available |
+| **medivault** | Next-gen patient portal & medical registry with Gemini AI & Groq | [GitHub Code](https://github.com/Avenger11764/medivault) \| [Live Demo](https://medivault-healthcare.vercel.app/) |
+| **algoprep** | Full-stack competitive programming companion & interview prep | [GitHub Code](https://github.com/Avenger11764/algoprep) \| Live Demo Not Available |
+| **duo_learning** | Gamified social learning hub with quizzes & streaks | [GitHub Code](https://github.com/Avenger11764/duo_learning) \| [Live Demo](https://duo-learning.vercel.app/) |
+| **DOCU** | Full-stack RAG AI document intelligence platform with Gemini | [GitHub Code](https://github.com/Avenger11764/DOCU) \| [Live Demo](https://docu-ai-avi.vercel.app/) |
+| **Chronos (Task-tracker)** | MERN task/workflow manager with database fallback engine | [GitHub Code](https://github.com/Avenger11764/Task-tracker) \| [Live Demo](https://task-tracker-avi.vercel.app/) |
+| **JobLink** | React + TS job portal with 6-step application wizard & draft auto-save | [GitHub Code](https://github.com/Avenger11764/Joblink) \| [Live Demo](https://joblink-avi.vercel.app/) |
 
 ---
 
