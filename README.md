@@ -107,6 +107,9 @@
 | **medivault** | Next-gen patient portal & medical registry with Gemini AI & Groq | [GitHub Code](https://github.com/Avenger11764/medivault) |
 | **algoprep** | Full-stack competitive programming companion & interview prep | [GitHub Code](https://github.com/Avenger11764/algoprep) |
 | **duo_learning** | Gamified social learning hub with quizzes & streaks | [GitHub Code](https://github.com/Avenger11764/duo_learning) |
+| **DOCU** | Full-stack RAG AI document intelligence platform with Gemini | [GitHub Code](https://github.com/Avenger11764/DOCU) |
+| **Chronos (Task-tracker)** | MERN task/workflow manager with database fallback engine | [GitHub Code](https://github.com/Avenger11764/Task-tracker) |
+| **JobLink** | React + TS job portal with 6-step application wizard & draft auto-save | [GitHub Code](https://github.com/Avenger11764/Joblink) |
 
 ---
 
