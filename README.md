@@ -66,9 +66,9 @@
 <tr>
 <td width="50%">
 
-**🖥️ Dynamic_island**
+**🖥️ Smart Notch**
 - A sleek, butter-smooth, and highly functional Dynamic Island utility built natively for Windows. Features native Spotify integration, Pomodoro timers, and live system hardware monitoring.
-- [View Project](https://github.com/Avenger11764/Dynamic_island)
+- [View Project](https://github.com/Avenger11764/Smart-notch)
 
 </td>
 <td width="50%">
@@ -103,7 +103,7 @@
 
 | Project Name | Details | GitHub & Live Link |
 | :--- | :--- | :--- |
-| **Dynamic_island** | Sleek, butter-smooth Windows Dynamic Island utility | [GitHub Code](https://github.com/Avenger11764/Dynamic_island) \| [Live Demo](https://smart-notch-windows.vercel.app/) |
+| **Smart Notch** | Sleek, butter-smooth Windows Dynamic Island utility | [GitHub Code](https://github.com/Avenger11764/Smart-notch) \| [Live Demo](https://smart-notch-windows.vercel.app/) |
 | **medivault** | Next-gen patient portal & medical registry with Gemini AI & Groq | [GitHub Code](https://github.com/Avenger11764/medivault) \| [Live Demo](https://medivault-healthcare.vercel.app/) |
 | **algoprep** | Full-stack competitive programming companion & interview prep | [GitHub Code](https://github.com/Avenger11764/algoprep) \| [Live Demo](https://algoprep-orpin.vercel.app/) |
 | **duo_learning** | Gamified social learning hub with quizzes & streaks | [GitHub Code](https://github.com/Avenger11764/duo_learning) \| [Live Demo](https://duo-learning.vercel.app/) |
